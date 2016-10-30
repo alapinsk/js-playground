@@ -1,0 +1,9 @@
+'Hoising' - is this behaviour that gives impression 
+that the declarations in javascipt are somehow moved to the top
+of the execution code. 
+This is misleading! 
+What is really happening is that browser serves javascipt 
+in two phases: 
+1) Creation - browser goes through code and creates space in memory whenever 
+it stumbles upon function or variable declaration. 
+2) Execution - executes line by line our javascipt code. 
