@@ -7,9 +7,10 @@ Familiarize myself with JavaScript language
 through exercises.
 
 Fundamental concepts: 
-1) Hoisting
-2) Primitive types
-3) Clousures 
-4) Functors 
-5) Monads 
+* Hoisting (1)
+* Primitive types (2)
+* Clousures (3)
+* Functors (4)
+* Monads (5)
+
 
